@@ -1,6 +1,6 @@
 import { withRouter } from "next/router";
 
-const Homepage=(propsgit )=>{
+const Homepage=(props)=>{
 
     return(
         <>
